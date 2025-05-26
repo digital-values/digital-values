@@ -1,9 +1,5 @@
 ## whoami
 
-**Digital-Values**
-
-## About
-
 Security researcher and self-proclaimed terrible developer with a relentless curiosity about the intricate dance between offense and defense in the cyber realm. 
 I find meaning in breaking things apart to deeply understand them—then attempting to craft robust defenses to withstand tomorrow's threats. Inspired by Terry Davis's wisdom, I believe, "The purpose of life is to entertain God."
 
