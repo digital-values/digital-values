@@ -19,16 +19,15 @@ I find meaning in breaking things apart to deeply understand them—then attempt
 - The endless quest for grilling the perfect steak
 
 ## Current Focus
+
 Deep exploration into malware development and evasion techniques to illuminate modern threat landscapes and strengthen defensive readiness.
 
 ## Let's Connect
-<pre>
+
 Actually, let's not connect digitally-but if our paths cross at a conference, I'm always eager to exchange ideas and share insights.
-
-  
-
-  
-</pre>
+<br />
+<br />
+<br />
 
 ---
 
