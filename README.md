@@ -33,4 +33,6 @@ Actually, let's not connect digitally—but if our paths cross at a conference, 
 ---
 
 
-### "Maybe... I think, ah, maybe I'm just like a - bizarre little person who just walks back and forth, whatever - you know... ha-ha, but." - Terry Davis
+
+
+##### "Maybe... I think, ah, maybe I'm just like a - bizarre little person who just walks back and forth, whatever - you know... ha-ha, but." - Terry Davis
