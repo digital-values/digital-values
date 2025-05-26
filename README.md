@@ -5,22 +5,21 @@ I find meaning in breaking things apart to deeply understand them—then attempt
 
 ## What I'm Working On:
 
-Malware analysis, detection evasion, and sophisticated countermeasures
-Advanced offensive security techniques and red teaming, particularly on macOS
-Developing resilient defensive strategies and proactive security systems
-Bridging software development practices with practical cybersecurity solutions
+- Detection Engineering, mostly against AV using advanced threat hunt queries across SPL, KQL, CQL
+- macOS Security Research stuff
+- Exploit Development and Advanced Malware Evasion TTPs
+- Developing personal tooling for making life as efficient as possible
 
 ## Interests & Hobbies
 
-Security research (both offensive and defensive perspectives)
-Privacy advocacy and technologies
-Physical security methodologies
-Brazilian Jiu-Jitsu (embracing the humility of continuous improvement)
-Strength training (discipline through consistency)
-The endless quest for grilling the perfect steak
+- Security research (both offensive and defensive)
+- Privacy related stuff
+- Physical security stuff
+- Exercise and health stuff
+- The endless quest for grilling the perfect steak
 
 ## Current Focus
-Deep exploration into malware development methodologies and evasion techniques to illuminate modern threat landscapes and strengthen defensive readiness. Echoing Terry Davis's insight: "If you're not breaking something, you're not doing it right."
+Deep exploration into malware development and evasion techniques to illuminate modern threat landscapes and strengthen defensive readiness.
 
 ## Let's Connect
 
@@ -32,7 +31,4 @@ Actually, let's not connect digitally-but if our paths cross at a conference, I'
 .
 ---
 
-
-
-
-##### "Maybe... I think, ah, maybe I'm just like a - bizarre little person who just walks back and forth, whatever - you know... ha-ha, but." - Terry Davis
+###### "Maybe... I think, ah, maybe I'm just like a - bizarre little person who just walks back and forth, whatever - you know... ha-ha, but." - Terry Davis
