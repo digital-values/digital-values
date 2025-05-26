@@ -22,13 +22,14 @@ I find meaning in breaking things apart to deeply understand them—then attempt
 Deep exploration into malware development and evasion techniques to illuminate modern threat landscapes and strengthen defensive readiness.
 
 ## Let's Connect
-
+<pre>
 Actually, let's not connect digitally-but if our paths cross at a conference, I'm always eager to exchange ideas and share insights.
-.
-.
-.
-.
-.
+
+  
+
+  
+</pre>
+
 ---
 
 ###### "Maybe... I think, ah, maybe I'm just like a - bizarre little person who just walks back and forth, whatever - you know... ha-ha, but." - Terry Davis
