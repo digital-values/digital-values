@@ -28,8 +28,12 @@ Deep exploration into malware development methodologies and evasion techniques t
 
 ## Let's Connect
 
-Actually, let's not connect digitally—but if our paths cross at a conference, I'm always eager to exchange ideas and share insights.
-
+Actually, let's not connect digitally-but if our paths cross at a conference, I'm always eager to exchange ideas and share insights.
+.
+.
+.
+.
+.
 ---
 
 
