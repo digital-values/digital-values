@@ -1,5 +1,36 @@
-I like to move heavy weights around ocassionally , learn and do "computer stuff" either breaking or fixing (sometimes both), coffee and tequila or just tequila
-I’m interested in all things offensive / counter-whatever in any field/industry
-I’m currently learning malware development and advanced malware evasion techniques
-How to reach me: 867-5309 > project a white light in the night sky with a silhouette of the Linux penguin > or by looking in the mirror in your bathroom with the lights off and yelling "cyber" three times with closed eyes
+# whoami
 
+Digital-Values 
+
+## About
+
+Security researcher and self-proclaimed terrible developer with a relentless curiosity about the intricate dance between offense and defense in the cyber realm. 
+I find meaning in breaking things apart to deeply understand them—then attempting to craft robust defenses to withstand tomorrow's threats. Inspired by Terry Davis's wisdom, I believe, "The purpose of life is to entertain God."
+
+## What I'm Working On:
+
+Malware analysis, detection evasion, and sophisticated countermeasures
+Advanced offensive security techniques and red teaming, particularly on macOS
+Developing resilient defensive strategies and proactive security systems
+Bridging software development practices with practical cybersecurity solutions
+
+## Interests & Hobbies
+
+Security research (both offensive and defensive perspectives)
+Privacy advocacy and technologies
+Physical security methodologies
+Brazilian Jiu-Jitsu (embracing the humility of continuous improvement)
+Strength training (discipline through consistency)
+The endless quest for grilling the perfect steak
+
+## Current Focus
+Deep exploration into malware development methodologies and evasion techniques to illuminate modern threat landscapes and strengthen defensive readiness. Echoing Terry Davis's insight: "If you're not breaking something, you're not doing it right."
+
+## Let's Connect
+
+Actually, let's not connect digitally—but if our paths cross at a conference, I'm always eager to exchange ideas and share insights.
+
+---
+
+
+### "Maybe... I think, ah, maybe I'm just like a - bizarre little person who just walks back and forth, whatever - you know... ha-ha, but." - Terry Davis
